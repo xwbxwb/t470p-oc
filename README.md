@@ -5,7 +5,7 @@
 ![](images/neofetch.jpg)
 
 # 硬件
-- <b>型号</b>: Thinkpad T470  
+- <b>型号</b>: Thinkpad T470P
 - <b>CPU</b>: i5-7300HQ
 - <b>GPU</b>: 集显
 - <b>硬盘</b>: 更换为海康e200p
